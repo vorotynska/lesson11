@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #639;
+    
     height: 100vh;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -12,6 +12,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border-color: #639;
 }
 
 .form {

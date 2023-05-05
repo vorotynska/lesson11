@@ -1,4 +1,5 @@
 import React from "react";
+import "./calls.css"
 
 export default function Calls() {
     const [ starWarsData,setStarWarsData] = React.useState({})

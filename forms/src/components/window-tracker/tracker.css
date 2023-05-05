@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: white;
+    margin: 0;
+    padding: 0;
+    background-color: #FF7C43;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    
+    max-width: 500px;
+
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    padding: 1rem;
+    cursor: pointer;
+}
+
+h1 {
+    text-align: start;
+}
